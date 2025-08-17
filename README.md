@@ -75,9 +75,9 @@ These were handled using mean imputation, where missing values were replaced wit
 <img width="294" height="179" alt="machinnn" src="https://github.com/user-attachments/assets/8c9dda9e-96c3-4f16-9bd6-e73ded65488c" />
 
 
-OUR DATA IS NOW PROCESSED AMD READY FOR TESTING AND TRAINing
+         OUR DATA IS NOW PRE-PROCESSED AND READY FOR TESTING AND TRAINING
 
-WE TRAINED THE DATA USING RANDOM FOREST AND NAVIE BAYES 
+                    WE TRAINED THE DATA USING RANDOM FOREST AND NAVIE BAYES 
 
 <img width="1001" height="490" alt="eva 1" src="https://github.com/user-attachments/assets/6234b716-498f-4c6c-aadd-f05201f11d8b" />
 
