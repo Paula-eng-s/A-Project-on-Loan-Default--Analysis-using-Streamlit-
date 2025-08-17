@@ -46,13 +46,15 @@ USING HISTOGRAM
 
 USING CORRELAION MATRIX
 
-Correlation Matrix: A heatmap was used to visualize correlations between numerical attributes, identifying potential relationships that could influence loan default.
+Correlation Matrix: 
+
+A heatmap was used to visualize correlations between numerical attributes, identifying potential relationships that could influence loan default.
 
 <img width="933" height="464" alt="machine 4" src="https://github.com/user-attachments/assets/ff199de4-f0d5-4fd5-ac82-64dbb0792292" />
 
 
 
-Data Preprocessing
+# Data Preprocessing
 	Handling Missing Values
 The dataset contained missing values.
 
@@ -84,7 +86,7 @@ The model was deployed using the Random Forest to make future predictions of the
 
 
 
-APPENDIX
+# APPENDIX
 
 
 <img width="768" height="346" alt="Codes" src="https://github.com/user-attachments/assets/e266e4cd-056c-45cf-9c90-af6ae00c0ce8" />
