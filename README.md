@@ -17,7 +17,10 @@ Machine learning offers the ability to automatically detect patterns in large da
 # Data Overview
 
 Dataset Description
-The dataset used in this project is sourced from Kaggle and contains historical data on borrowers, including their demographic details, financial history, and loan characteristics. The key features of the dataset include:
+The dataset used in this project is sourced from Kaggle and contains historical data on borrowers, including their demographic details, financial history, and loan characteristics.
+
+The key features of the dataset include:
+
 	Applicant-Income: Income of the loan applicant.
 
 	Co-applicant-Income: Income of the co-applicant, if applicable.
