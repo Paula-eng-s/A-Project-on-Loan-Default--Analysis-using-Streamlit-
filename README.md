@@ -62,7 +62,8 @@ The dataset contained missing values.
 
 These were handled using mean imputation, where missing values were replaced with the mean of the respective columns. This approach ensured that the dataset remained intact without losing valuable information.
 
-<img width="316" height="216" alt="machinee" src="https://github.com/user-attachments/assets/7cb95fa2-c77d-4703-a62c-9cc34767c821" />
+<img width="316" height="206" alt="sat 2" src="https://github.com/user-attachments/assets/464a8848-85a4-486b-8b0a-a92a71c44974" />
+
 
 
 	Encoding Categorical Variables
