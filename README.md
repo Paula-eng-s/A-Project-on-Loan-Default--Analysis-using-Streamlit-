@@ -10,6 +10,7 @@ Loan defaults represent a serious issue for financial institutions, leading to s
 Machine learning offers the ability to automatically detect patterns in large datasets, enabling the creation of predictive models that can forecast loan defaults with higher accuracy. In this project, we utilize data from a Kaggle dataset to develop a Stream-lit web application that leverages machine learning models to predict loan defaults.	
 
 2.2   Purpose
+
  Development process of an interactive web application that incorporates machine learning models to predict the likelihood of loan defaults. The application is designed to assist lenders in making more accurate and efficient lending decisions, 
 
 
