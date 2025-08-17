@@ -1,25 +1,34 @@
 # A-Project-on-Loan-Default--Analysis-using-Streamlit-
+
 Developed a model that could predict and forecast the incidence of Loan default occuring.
 
-Introduction
+# Introduction
 2.1 Background
 
-Loan defaults represent a serious issue for financial institutions, leading to significant monetary losses. Early identification of high-risk borrowers is crucial for mitigating these risks. Traditional methods often rely on simplistic criteria, which can fail to capture the complexity of borrower profiles. With the advent of machine learning, predictive analytics now allows for a more comprehensive assessment of borrower risk.
+Loan defaults represent a serious issue for financial institutions, leading to significant monetary losses. Early identification of high-risk borrowers is crucial for mitigating these risks. 
+
 Machine learning offers the ability to automatically detect patterns in large datasets, enabling the creation of predictive models that can forecast loan defaults with higher accuracy. In this project, we utilize data from a Kaggle dataset to develop a Stream-lit web application that leverages machine learning models to predict loan defaults.	
 
 2.2   Purpose
-This report presents the development process of an interactive web application that incorporates machine learning models to predict the likelihood of loan defaults. The application is designed to assist lenders in making more accurate and efficient lending decisions, 
+ Development process of an interactive web application that incorporates machine learning models to predict the likelihood of loan defaults. The application is designed to assist lenders in making more accurate and efficient lending decisions, 
 
 
-Data Overview
+# Data Overview
+
 Dataset Description
 The dataset used in this project is sourced from Kaggle and contains historical data on borrowers, including their demographic details, financial history, and loan characteristics. The key features of the dataset include:
 	Applicant-Income: Income of the loan applicant.
+
 	Co-applicant-Income: Income of the co-applicant, if applicable.
+
 	Loan-Amount: The amount of the loan requested.
+
 	Loan-Amount-Term: The term of the loan in months.
+
 	Credit-History: A binary indicator of whether the applicant has a positive credit history (1) or not (0).
+
 	Property-Area: The area where the property is located (Urban, Semiurban, Rural).
+
 	Loan-Status: The target variable, indicating whether the loan was approved (1) or denied (0).
  
 The dataset consists of approximately 614 instances, with multiple features that vary in data type, including numerical, categorical, and binary. There were 1.9% missing observations in the data.
