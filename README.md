@@ -2,9 +2,12 @@
 I developed a model that could predict and forecast the incidence of Loan default occuring.
 
 <img width="768" height="346" alt="Codes" src="https://github.com/user-attachments/assets/e266e4cd-056c-45cf-9c90-af6ae00c0ce8" />
+
 Load the Datasets
 
+
 Deploy using Streamlit'
+
 
 <img width="738" height="350" alt="codes 1" src="https://github.com/user-attachments/assets/ec9a9629-077d-4a35-9c1b-7c7e7c94baf8" />
 <img width="602" height="346" alt="code 10" src="https://github.com/user-attachments/assets/f454ffc2-f418-4c63-814f-bd15de483499" />
