@@ -1,5 +1,5 @@
 # A-Project-on-Loan-Default--Analysis-using-Streamlit-
-I developed a model that could predict and forecast the incidence of Loan default occuring.
+Developed a model that could predict and forecast the incidence of Loan default occuring.
 
 <img width="768" height="346" alt="Codes" src="https://github.com/user-attachments/assets/e266e4cd-056c-45cf-9c90-af6ae00c0ce8" />
 
