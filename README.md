@@ -44,7 +44,7 @@ USING HISTOGRAM
 
 <img width="994" height="596" alt="machine 3" src="https://github.com/user-attachments/assets/fc68a4e8-1e6f-479f-8370-1308453db3ec" />
 
-USING CORRELAION MATRIX
+USING CORRELATION MATRIX
 
 Correlation Matrix: 
 
