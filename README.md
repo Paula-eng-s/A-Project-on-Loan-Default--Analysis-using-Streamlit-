@@ -23,11 +23,15 @@ SETTING THE RISK RANGE : for customer churn or default on their loan paymnents
 
 Pre - processing the data;   encode the categorical observations into numerical using :
 
-1. Label Encoding
+            1. Label Encoding
+            
+            OR
+               
+            2. One Hot encoding
+            
+Pre - processing the data;
 
-OR
-   
-3. One Hot encoding
+Identify missing values in the data
    
 <img width="706" height="307" alt="code 4" src="https://github.com/user-attachments/assets/a09c2af3-74c8-43e0-9f81-58c6e57641ae" />
 <img width="468" height="320" alt="code 3" src="https://github.com/user-attachments/assets/d845c193-157f-43d6-bfd0-5c7c4bde589e" />
