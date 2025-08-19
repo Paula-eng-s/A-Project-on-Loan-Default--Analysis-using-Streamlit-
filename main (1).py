@@ -106,7 +106,7 @@ page = st.sidebar.selectbox("Choose a page:", [
 ])
 
 # Importing data at the global level
-loan_data= pd.read_csv("C:/Users/EYRAM/OneDrive/Desktop/Loan project/loan data.csv")
+loan_data= pd.read_csv('train_u6lujuX_CVtuZ9i (1).csv')
 
 
 def create_risk_bar(risk_score):
@@ -1286,4 +1286,5 @@ st.sidebar.markdown("""
 <p>Built with ❤ using Streamlit</p>
 <p>Group 7 - OMIS 304</p>
 </div>
+
 """, unsafe_allow_html=True)
