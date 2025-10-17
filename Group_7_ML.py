@@ -24,8 +24,7 @@ warnings.filterwarnings('ignore')
 
 # Importing data at the global level
 
-Data=pd.read_csv('C:/Users/Paula/PycharmProjects/pythonProject6/train_u6lujuX_CVtuZ9i (1).csv')
-
+Data=pd.read_csv('Group_7_ML.py')
 
 
 
@@ -1296,4 +1295,5 @@ st.sidebar.markdown("""
 <p>Built with ❤ using Streamlit</p>
 <p>Group 7 - OMIS 304</p>
 </div>
+
 """, unsafe_allow_html=True)
